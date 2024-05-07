@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: teste-backstage-bitbucket-2
-  file_path: Dockerfile
+  name: plataforma-base-flask-api
+  file_path: devops/Dockerfile
   description: Testes gerais
 spec:
   type: service
