@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: carrefour-mcommerce-push
-  file_path: envs/local/Dockerfile
+  name: c4-cmkt-processor-customer
+  file_path: src/main/docker/Dockerfile
   description: Testes gerais
 spec:
   type: service
