@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: c4-cmkt-processor-customer
-  file_path: src/main/docker/Dockerfile
+  name: br-apps-fiscal-data-sync-be
+  file_path: coretax-admin-api/devops/Dockerfile
   description: Testes gerais
 spec:
   type: service
