@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: teste-backstage-bitbucket-2
+  file_path: Dockerfile
+  description: Testes gerais
+spec:
+  type: service
+  lifecycle: qa
+  owner: platform
+  system: system:default/base-system
