@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: plataforma-base-flask-api
-  file_path: devops/Dockerfile
+  name: carrefour-mcommerce-push
+  file_path: envs/local/Dockerfile
   description: Testes gerais
 spec:
   type: service
